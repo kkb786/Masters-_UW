@@ -1,4 +1,4 @@
-Analysis to understand the relation of deaths due to Covid-19, and different factors \n
+Analysis to understand the relation of deaths due to Covid-19, and different factors \
 The factors used in this analysis are countries' different indexes and a list of vaccines that are mandatory in the countries \n
 4 different kinds of response variables were used, which were a function of the number of deaths due to COVID and other different variables. \n
 Random forests were used to select factors that were important. \n
